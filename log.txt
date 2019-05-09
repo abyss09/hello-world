@@ -24,3 +24,8 @@ Date:2019.05.04 Saturday Weather sunny
 4.exercise 
 bonus:0M + 0M + 0M + 100M
 
+Date:2019.05.09 Thursday Weather sunny
+1.paper Adaptive Wiener Filtering Noise Images and Image Sequences 
+bonus:400M
+ps: I will always be one call away, and I really miss you, my girl
+
