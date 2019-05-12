@@ -26,6 +26,12 @@ bonus:0M + 0M + 0M + 100M
 
 Date:2019.05.09 Thursday Weather sunny
 1.paper Adaptive Wiener Filtering Noise Images and Image Sequences 
-bonus:400M
+2.exercise
+bonus:400M + 100M
 ps: I will always be one call away, and I really miss you, my girl
+
+Date:2019.05.12 Sunday Weather cloudy
+1.NBA gif x4
+bonus:40M
+ps: She still don't reply，but I never give up
 
