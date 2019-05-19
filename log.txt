@@ -35,3 +35,10 @@ Date:2019.05.12 Sunday Weather cloudy
 bonus:40M
 ps: She still don't reply，but I never give up
 
+Date:2019.05.19 Sunday Weather overcast
+1.paper Hand-held Video Debluring via Efficient Fourier Aggregation
+2.paper Removing Camera Shake via Weighted Fourier Burst Accumulation
+3.paper Power Spectrum Estimation Method for Image Denoising by Frequency Domain Wiener Filter
+4.exercise basketball
+5.income
+bonus:1400M + 1500M + 500M + 200M + 5000M
